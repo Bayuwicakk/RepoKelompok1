@@ -6,7 +6,8 @@ namespace RepoKelompok1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Kelompok 1");
+            Console.WriteLine("Kelas 20S1IF04");
         }
     }
 }
